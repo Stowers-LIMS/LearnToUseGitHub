@@ -4,6 +4,7 @@ Add your favorite quote next to your name to indicate you have
 successfully pushed to GitHub.
 
 Alex:
+> In theory there is no difference between theory and practice. In practice there is.
 
 Andy:
 
